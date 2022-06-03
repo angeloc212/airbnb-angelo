@@ -32,6 +32,11 @@ function Footer() {
             <p>Help Center</p>
             <p>Safety</p>
             <p>Hi everyone</p>
+            <p>For the Win</p>
+            <p>For the Win</p>
+            <p>For the Win</p>
+            <p>For the Win</p>
+            <p>For the Win</p>
             <p>Get motivated</p>
             <p>For the Win</p>
         </div>
